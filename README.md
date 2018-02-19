@@ -2,7 +2,7 @@
 
 Material about the introductory talk I gave in Spanish about WebGL and shaders at Front Fest '18.
 
-- [Slides to download and see offline](http://vlucendo.com/files/frontfest-18.zip)
+- [Slides](http://slides.com/vlucendo/webgl-y-shaders-programando-luz)
 - [Codepen num. 1](https://codepen.io/vlucendo/pen/xYqejX)
 - [Codepen num. 2](https://codepen.io/vlucendo/pen/eVgGKb)
 - [Codepen num. 3](https://codepen.io/vlucendo/pen/KQWLGy)
